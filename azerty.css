@@ -1,0 +1,44 @@
+*{
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+h1{
+	text-align: center;
+	font-size:40px;
+}
+ p{
+ 	font-size:22px;
+ 	line-height: 150%;
+
+ }
+ h3,h4{
+ 	font-size:30px ;
+ 	color: white;
+ 	text-transform:uppercase;
+ 	text-align: center;
+ }
+ .A{
+ 	font-size: 30px ;
+ 	color: #999999;
+ }
+ *{
+    background: tomato;
+    -webkit-animation: mymove 3s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 3s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {background-color: tomato;}
+    to {background-color: green;}
+}
+ h1:hover{
+ 	color: yellow
+ }
+h3:hover{
+ 	color: #e60000
+ }
+ h4:hover{
+ 	color: #e60000
+ }
