@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	margin-top: 60px;
+    margin-bottom: 30px;
+    color: white;
+    font-family: 'Bitter', serif;
+    font-size: 60px;
+}
+
+h3{
+	color: red;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	padding-bottom: 50px;
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1531028660624-daf3d7c38f1b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6867ee5f1c0153f3d5c0c98f3f36c5ca&auto=format&fit=crop&w=1350&q=80);
+	background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+p{
+	color: white;
+	size: 15px;
+	padding-bottom: 100px;
+}
+.ab{
+	border-style: solid;
+	background-color: white;
+	opacity: 0.7;
+}
+html{
+	height: 100%;
+}
